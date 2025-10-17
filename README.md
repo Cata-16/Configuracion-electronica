@@ -1,7 +1,5 @@
 # Configuracion-electronica
 
-# Configuración Electrónica — JavaScript
-
 Este proyecto muestra cómo generar y visualizar la tabla de configuración electrónica de los elementos químicos mediante un script en JavaScript.  
 El resultado se imprime directamente en la consola del navegador, lo que permite observar de manera ordenada los diferentes niveles y subniveles de energía (s, p, d, f).
 
