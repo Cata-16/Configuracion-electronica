@@ -26,6 +26,7 @@ El código implementa una matriz bidimensional que contiene los niveles y subniv
 ## Instrucciones de uso
 
 1. Clona el repositorio:
+   https://github.com/Cata-16/Configuracion-electronica.git
   
 
 
